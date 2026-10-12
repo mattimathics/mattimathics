@@ -26,7 +26,7 @@ I'm a final-year BSc Data Science and Business Analytics student at the Universi
 | Project | What it shows |
 |---|---|
 | [**Flight Delay Prediction**](https://github.com/mattimathics/flight-delay-prediction) | Loaded 5 years of US flight records (2004–2008) into an indexed SQLite database and compared 6 classifiers, then rebuilt the model with pre-departure features only to remove target leakage. Built in R and Python. |
-| **APAC Sales Profitability Dashboard** *(repo coming soon)* | Tableau executive dashboard for $3.58M in sales across 5,429 orders. Found that discounts above 20% push margin to −23.21% and recommended a 15–20% discount cap. |
+| [**APAC Sales Profitability Dashboard**](https://public.tableau.com/views/ST2187_Tableau_Course_Work/DASH1) *(live on Tableau Public)* | Tableau executive dashboard for $3.58M in sales across 5,429 orders. Found that discounts above 20% push margin to −23.21% and recommended a 15–20% discount cap. |
 | **MCMC Sampler from Scratch** *(repo coming soon)* | Random Walk Metropolis algorithm, with convergence checked by the Gelman-Rubin R-hat across step sizes. |
 | 🚧 **[FinTech project, coming soon]** | [One line once built, e.g. credit default prediction in Python] |
 
