@@ -17,7 +17,7 @@ I'm a final-year BSc Data Science and Business Analytics student at the Universi
 | Machine learning | scikit-learn, mlr3, glmnet, random forest, gradient boosting, cross-validation |
 | Statistics | statsmodels, regression, ANOVA, hypothesis testing, MCMC, survey and sampling design |
 | Visualisation | Tableau, ggplot2, Matplotlib, seaborn, Plotly |
-| Workflow | Jupyter, R Markdown, Git |
+| Workflow | Jupyter, R Markdown, Git, pytest, GitHub Actions |
 
 ---
 
@@ -25,7 +25,7 @@ I'm a final-year BSc Data Science and Business Analytics student at the Universi
 
 | Project | What it shows |
 |---|---|
-| [**Flight Delay Prediction**](https://github.com/mattimathics/flight-delay-prediction) | Loaded 5 years of US flight records (2004–2008) into an indexed SQLite database and compared 6 classifiers, then rebuilt the model with pre-departure features only to remove target leakage. Built in R and Python. |
+| [**Flight Delay Prediction**](https://github.com/mattimathics/flight-delay-prediction) | Analysed 31M US flights (2004–2008) in an indexed SQLite database. Found target leakage that inflated AUC to 0.997 and rebuilt the model on pre-departure data only (honest AUC 0.641). Python, R, SQL, with automated tests. |
 | [**APAC Sales Profitability Dashboard**](https://public.tableau.com/views/ST2187_Tableau_Course_Work/DASH1) *(live on Tableau Public)* | Tableau executive dashboard for $3.58M in sales across 5,429 orders. Found that discounts above 20% push margin to −23.21% and recommended a 15–20% discount cap. |
 | [**MCMC Sampler from Scratch**](https://github.com/mattimathics/mcmc-random-walk-metropolis) | Random Walk Metropolis sampler in Python and R. Checked convergence with Gelman-Rubin R-hat, then showed a better step size gives nearly 4× more effective samples per run. |
 | 🚧 **[FinTech project, coming soon]** | [One line once built, e.g. credit default prediction in Python] |
