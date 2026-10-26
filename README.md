@@ -25,7 +25,7 @@ I'm a final-year BSc Data Science and Business Analytics student at the Universi
 
 | Project | What it shows |
 |---|---|
-| [**Flight Delay Prediction**](https://github.com/mattimathics/flight-delay-prediction) | Analysed 31M US flights (2004–2008) in an indexed SQLite database. Found target leakage that inflated AUC to 0.997 and rebuilt the model on pre-departure data only (honest AUC 0.641). Python, R, SQL, with automated tests. |
+| [**Flight Delay Prediction**](https://github.com/mattimathics/Flight-Delay-Prediction) · [Live demo](https://mattimathics.github.io/Flight-Delay-Prediction/) | Caught target leakage in my own model (AUC 0.998 → an honest 0.654 on 31M US flights), then rebuilt it to flag risky flights 2 hours before departure (AUC 0.765; its riskiest 10% were late 73.5% of the time). Python, SQL, R, with automated tests. |
 | [**APAC Sales Profitability Dashboard**](https://public.tableau.com/views/ST2187_Tableau_Course_Work/DASH1) *(live on Tableau Public)* | Tableau executive dashboard for $3.58M in sales across 5,429 orders. Found that discounts above 20% push margin to −23.21% and recommended a 15–20% discount cap. |
 | [**MCMC Sampler from Scratch**](https://github.com/mattimathics/mcmc-random-walk-metropolis) | Random Walk Metropolis sampler in Python and R. Checked convergence with Gelman-Rubin R-hat, then showed a better step size gives nearly 4× more effective samples per run. |
 | 🚧 **[FinTech project, coming soon]** | [One line once built, e.g. credit default prediction in Python] |
