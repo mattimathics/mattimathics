@@ -2,9 +2,9 @@
 
 **Data Science & Business Analytics student building machine learning models and dashboards that turn data into decisions, with a focus on finance.**
 
-I'm a final-year BSc Data Science and Business Analytics student at the University of London (Singapore Institute of Management), graduating in mid-2027. I like data because it shows the truth underneath a problem. My interest in finance comes from my family, and I want to use data science to understand and improve financial decisions.
+I'm a final-year BSc Data Science and Business Analytics student at the University of London (Singapore Institute of Management), graduating in 2028 (final exams May–June 2027). I like data because it shows the truth underneath a problem. My interest in finance comes from my family, and I want to use data science to understand and improve financial decisions.
 
-🎯 Looking for **graduate Data Scientist roles in Singapore from mid-2027**, ideally in FinTech or finance.
+🎯 Looking for **graduate Data Scientist roles in Singapore from July 2027**, ideally in FinTech or finance.
 
 ---
 
